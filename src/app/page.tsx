@@ -7,10 +7,13 @@ import HeroSection from '@/components/HeroSection';
 import AboutSection from '@/components/AboutSection';
 import ServicesSection from '@/components/ServicesSection';
 import HealthCategoriesSection from '@/components/HealthCategoriesSection';
+import ExpertiseSection from '@/components/ExpertiseSection';
 
 export default function HomePage() {
   return (
     <div className="flex min-h-screen flex-col">
+      <ExpertiseSection />
+      
       <HealthCategoriesSection />
       
       <ServicesSection />
