@@ -20,6 +20,9 @@
 
   --shadow-neumorphic-button: 5px 5px 10px rgba(0, 0, 0, 0.1), -2px -2px 5px rgba(255, 255, 255, 0.5), inset 0px 0px 0px rgba(255, 255, 255, 0.3);
   --shadow-inner: inset 2px 2px 5px rgba(0, 0, 0, 0.1), inset -2px -2px 5px rgba(255, 255, 255, 0.5);
+
+  --shadow-neumorphic-hover: 8px 8px 16px rgba(0, 0, 0, 0.06), -8px -8px 16px rgba(255, 255, 255, 0.9);
+  --shadow-neumorphic-button-hover: 6px 6px 10px rgba(0, 0, 0, 0.15), -3px -3px 8px rgba(255, 255, 255, 0.3);
 }
 
     html {
