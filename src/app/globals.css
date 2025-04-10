@@ -9,7 +9,12 @@
       --background-end-rgb: 255, 255, 255;
       --primary-color: #FFEEAD;
       --secondary-color: #4ECDC4;
-    }
+    
+  --primary: #FFEEAD;
+  --secondary: #4ECDC4;
+  --font-size-base: 1rem;
+  --border-radius: 1rem;
+}
 
     html {
       scroll-behavior: smooth;
