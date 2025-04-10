@@ -17,6 +17,9 @@
 
   --shadow-neumorphic: 5px 5px 10px rgba(0,0,0,0.1), -5px -5px 10px rgba(255,255,255,0.8);
   --shadow-inner-neumorphic: inset 2px 2px 5px rgba(0,0,0,0.1), inset -2px -2px 5px rgba(255,255,255,0.8);
+
+  --shadow-neumorphic-button: 5px 5px 10px rgba(0, 0, 0, 0.1), -2px -2px 5px rgba(255, 255, 255, 0.5), inset 0px 0px 0px rgba(255, 255, 255, 0.3);
+  --shadow-inner: inset 2px 2px 5px rgba(0, 0, 0, 0.1), inset -2px -2px 5px rgba(255, 255, 255, 0.5);
 }
 
     html {
