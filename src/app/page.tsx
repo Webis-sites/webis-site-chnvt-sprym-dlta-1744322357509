@@ -3,10 +3,13 @@
 import React from 'react';
 import Layout from '@/components/Layout';
 import Header from '@/components/Header';
+import HeroSection from '@/components/HeroSection';
 
 export default function HomePage() {
   return (
     <div className="flex min-h-screen flex-col">
+      <HeroSection />
+      
       <Header />
       
       <Layout />
