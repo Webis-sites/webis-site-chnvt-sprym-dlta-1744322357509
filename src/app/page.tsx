@@ -9,10 +9,13 @@ import ServicesSection from '@/components/ServicesSection';
 import HealthCategoriesSection from '@/components/HealthCategoriesSection';
 import ExpertiseSection from '@/components/ExpertiseSection';
 import ContactSection from '@/components/ContactSection';
+import LocationSection from '@/components/LocationSection';
 
 export default function HomePage() {
   return (
     <div className="flex min-h-screen flex-col">
+      <LocationSection />
+      
       <ContactSection />
       
       <ExpertiseSection />
