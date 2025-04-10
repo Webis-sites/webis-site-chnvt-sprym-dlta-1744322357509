@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-10T22:05:55.981Z",
+  "timestamp": "2025-04-10T22:06:43.225Z",
   "status": {
     "totalComponents": 15,
-    "completedComponents": 6,
+    "completedComponents": 7,
     "failedComponents": 0,
-    "progress": 40
+    "progress": 47
   },
   "components": [
     {
@@ -46,7 +46,7 @@
     {
       "name": "ExpertiseSection",
       "type": "content",
-      "status": "pending",
+      "status": "completed",
       "description": "Section highlighting the bookstore's expertise and knowledge in health literature"
     },
     {
