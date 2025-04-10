@@ -1,11 +1,102 @@
 {
-  "timestamp": "2025-04-10T21:59:40.110Z",
+  "timestamp": "2025-04-10T22:00:22.350Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 15,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Layout",
+      "type": "layout",
+      "status": "pending",
+      "description": "Main layout wrapper with RTL support for Hebrew language"
+    },
+    {
+      "name": "Header",
+      "type": "navigation",
+      "status": "pending",
+      "description": "RTL-aligned header with logo and navigation for a bookstore"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Main hero section for a health-focused bookstore with headline and CTA"
+    },
+    {
+      "name": "AboutSection",
+      "type": "content",
+      "status": "pending",
+      "description": "About section highlighting the bookstore's expertise in health literature"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Section showcasing the bookstore's specialized health literature services"
+    },
+    {
+      "name": "HealthCategoriesSection",
+      "type": "categories",
+      "status": "pending",
+      "description": "Visual showcase of different health book categories offered by the store"
+    },
+    {
+      "name": "ExpertiseSection",
+      "type": "content",
+      "status": "pending",
+      "description": "Section highlighting the bookstore's expertise and knowledge in health literature"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact form section with RTL support for customer inquiries"
+    },
+    {
+      "name": "LocationSection",
+      "type": "location",
+      "status": "pending",
+      "description": "Section showing the bookstore's location with map and contact details"
+    },
+    {
+      "name": "CTASection",
+      "type": "cta",
+      "status": "pending",
+      "description": "Call-to-action section encouraging visitors to contact the bookstore"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "RTL-aligned footer with bookstore information and links"
+    },
+    {
+      "name": "Button",
+      "type": "ui",
+      "status": "pending",
+      "description": "Reusable button component with RTL support"
+    },
+    {
+      "name": "Card",
+      "type": "ui",
+      "status": "pending",
+      "description": "Reusable card component for displaying content"
+    },
+    {
+      "name": "SectionHeader",
+      "type": "ui",
+      "status": "pending",
+      "description": "Reusable section header component with RTL support"
+    },
+    {
+      "name": "BookRecommendationSection",
+      "type": "content",
+      "status": "pending",
+      "description": "Section showcasing featured health book recommendations"
+    }
+  ],
   "repoName": "webis-site-chnvt-sprym-dlta-1744322357509"
 }
