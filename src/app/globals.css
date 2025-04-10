@@ -23,6 +23,10 @@
 
   --shadow-neumorphic-hover: 8px 8px 16px rgba(0, 0, 0, 0.06), -8px -8px 16px rgba(255, 255, 255, 0.9);
   --shadow-neumorphic-button-hover: 6px 6px 10px rgba(0, 0, 0, 0.15), -3px -3px 8px rgba(255, 255, 255, 0.3);
+
+  --card-shadow: 8px 8px 16px rgba(174, 174, 192, 0.2), -8px -8px 16px rgba(255, 255, 255, 0.9);
+  --card-border: 1px solid rgba(255, 255, 255, 0.7);
+  --button-shadow: 3px 3px 6px rgba(174, 174, 192, 0.2), -3px -3px 6px rgba(255, 255, 255, 0.7);
 }
 
     html {
