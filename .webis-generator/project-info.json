@@ -1,8 +1,36 @@
 {
   "projectName": "חנות-ספרים-דלתא-2357",
   "businessName": "חנות ספרים דלתא",
-  "created": "2025-04-10T21:59:17.580Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "description": "אנחנו חנות ספרים מוביל בתחום המזון עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+  "created": "2025-04-10T21:59:40.110Z",
+  "generatedWith": "webis-generator",
+  "repoName": "webis-site-chnvt-sprym-dlta-1744322357509",
+  "formData": {
+    "businessName": "חנות ספרים דלתא",
+    "businessType": "חנות ספרים",
+    "industry": "בריאות",
+    "businessSize": "small",
+    "description": "אנחנו חנות ספרים מוביל בתחום המזון עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+    "language": "he",
+    "primaryColor": "#FFEEAD",
+    "secondaryColor": "#4ECDC4",
+    "typographyStyle": "minimal",
+    "animationPreference": "moderate",
+    "headline": "חנות ספרים מוביל בישראל",
+    "descriptionText": "חווית לקוח מושלמת בכל ביקור",
+    "ctaText": "קבע תור עכשיו",
+    "formFields": "שם, טלפון, אימייל, הודעה",
+    "includeTestimonials": false,
+    "includeFAQ": false,
+    "hasProducts": false,
+    "hasServices": true,
+    "hasPortfolio": false,
+    "needsBookingSystem": false,
+    "metaDescription": "חנות ספרים מוביל המספק שירות מקצועי ואיכותי. הזמינו תור עוד היום!",
+    "metaKeywords": "חנות ספרים, שירות, איכות, מקצועיות, ישראל",
+    "designStyles": [
+      "neumorphic",
+      "glassmorphism"
+    ]
+  }
 }
