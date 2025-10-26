@@ -7,37 +7,9 @@
       --foreground-rgb: 0, 0, 0;
       --background-start-rgb: 214, 219, 220;
       --background-end-rgb: 255, 255, 255;
-      --primary-color: #FFEEAD;
-      --secondary-color: #4ECDC4;
-    
-  --primary: #FFEEAD;
-  --secondary: #4ECDC4;
-  --font-size-base: 1rem;
-  --border-radius: 1rem;
-
-  --shadow-neumorphic: 5px 5px 10px rgba(0,0,0,0.1), -5px -5px 10px rgba(255,255,255,0.8);
-  --shadow-inner-neumorphic: inset 2px 2px 5px rgba(0,0,0,0.1), inset -2px -2px 5px rgba(255,255,255,0.8);
-
-  --shadow-neumorphic-button: 5px 5px 10px rgba(0, 0, 0, 0.1), -2px -2px 5px rgba(255, 255, 255, 0.5), inset 0px 0px 0px rgba(255, 255, 255, 0.3);
-  --shadow-inner: inset 2px 2px 5px rgba(0, 0, 0, 0.1), inset -2px -2px 5px rgba(255, 255, 255, 0.5);
-
-  --shadow-neumorphic-hover: 8px 8px 16px rgba(0, 0, 0, 0.06), -8px -8px 16px rgba(255, 255, 255, 0.9);
-  --shadow-neumorphic-button-hover: 6px 6px 10px rgba(0, 0, 0, 0.15), -3px -3px 8px rgba(255, 255, 255, 0.3);
-
-  --card-shadow: 8px 8px 16px rgba(174, 174, 192, 0.2), -8px -8px 16px rgba(255, 255, 255, 0.9);
-  --card-border: 1px solid rgba(255, 255, 255, 0.7);
-  --button-shadow: 3px 3px 6px rgba(174, 174, 192, 0.2), -3px -3px 6px rgba(255, 255, 255, 0.7);
-
-  --shadow-light: 8px 8px 16px rgba(0, 0, 0, 0.05), -8px -8px 16px rgba(255, 255, 255, 0.8);
-  --shadow-button: 6px 6px 12px rgba(0, 0, 0, 0.1), -6px -6px 12px rgba(255, 255, 255, 0.8);
-
-  --neumorphic-shadow-light: 5px 5px 15px rgba(0,0,0,0.05), -5px -5px 15px rgba(255,255,255,0.8);
-  --neumorphic-shadow-pressed: inset 5px 5px 10px rgba(0,0,0,0.05), inset -5px -5px 10px rgba(255,255,255,0.8);
-  --glass-border: 1px solid rgba(255,255,255,0.2);
-  --glass-blur: blur(8px);
-
-  --shadow-dark: -3px -3px 6px rgba(255,255,255,0.7);
-}
+      --primary-color: #588C7E;
+      --secondary-color: #FFEEAD;
+    }
 
     html {
       scroll-behavior: smooth;
@@ -59,4 +31,5 @@
       .text-balance {
         text-wrap: balance;
       }
-  }
+    }
+  
