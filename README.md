@@ -27,7 +27,7 @@ A modern website for חנות ספרים דלתא, generated with webis-generato
 
 ## Generation Information
 
-- Generated on: 4/11/2025, 12:59:17 AM
+- Generated on: 10/26/2025, 7:35:04 PM
 - Business Name: חנות ספרים דלתא
 - Business Type: חנות ספרים
-- Industry: בריאות
+- Industry: אופנה
