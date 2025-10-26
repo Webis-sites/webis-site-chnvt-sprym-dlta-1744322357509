@@ -1,8 +1,11 @@
 {
-  "projectName": "חנות-ספרים-דלתא-7302",
-  "businessName": "חנות ספרים דלתא",
-  "created": "2025-10-26T19:35:04.158Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-10-26T19:35:22.068Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [],
+  "repoName": "webis-site-chnvt-sprym-dlta-1744322357509"
 }
